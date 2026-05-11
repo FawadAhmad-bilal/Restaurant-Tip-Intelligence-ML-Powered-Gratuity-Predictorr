@@ -1,5 +1,3 @@
-# 🍽️ Restaurant Tip Intelligence: ML-Powered Gratuity Predictor
-
 ## 🧠 Overview
 An end-to-end machine learning project that predicts restaurant tip amounts
 based on customer and transaction data. This project explores multiple
@@ -65,9 +63,6 @@ to derive actionable insights from real-world dining behavior.
 ```bash
 # Clone the repository
 git clone https://github.com/yourusername/restaurant-tip-predictor
-
-# Install dependencies
-pip install pandas numpy scikit-learn matplotlib seaborn
 
 # Open notebook
 jupyter notebook Random_forest_Regression.ipynb

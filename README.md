@@ -66,8 +66,4 @@ git clone https://github.com/yourusername/restaurant-tip-predictor
 
 # Open notebook
 jupyter notebook Random_forest_Regression.ipynb
-```
 
----
-
-## 📁 Project Structure
